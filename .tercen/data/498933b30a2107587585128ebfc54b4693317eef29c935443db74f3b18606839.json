@@ -1,0 +1,121 @@
+{
+ "kind": "TableSchema",
+ "id": "498933b30a2107587585128ebfc54b4693317eef29c935443db74f3b18606839",
+ "isDeleted": false,
+ "rev": "",
+ "description": "",
+ "name": "export_LD1_LD2_CD3pos_sample annotation.csv",
+ "acl": {
+  "kind": "Acl",
+  "owner": "",
+  "aces": []
+ },
+ "createdDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "lastModifiedDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "urls": [],
+ "tags": [],
+ "meta": [
+  {
+   "kind": "Pair",
+   "key": "SHA256",
+   "value": "498933b30a2107587585128ebfc54b4693317eef29c935443db74f3b18606839"
+  }
+ ],
+ "url": {
+  "kind": "Url",
+  "uri": ""
+ },
+ "version": "",
+ "isPublic": false,
+ "projectId": "",
+ "folderId": "",
+ "nRows": 4,
+ "columns": [
+  {
+   "kind": "ColumnSchema",
+   "id": "4ee509a4-8ece-4f34-84b1-a8a8d9f5c25c",
+   "name": "Exported filename",
+   "type": "string",
+   "nRows": 0,
+   "size": -1,
+   "metaData": {
+    "kind": "ColumnSchemaMetaData",
+    "sort": [],
+    "ascending": true,
+    "quartiles": [],
+    "properties": []
+   }
+  },
+  {
+   "kind": "ColumnSchema",
+   "id": "391eaad3-5158-4104-905b-c3e10a5f17c4",
+   "name": "Original filename",
+   "type": "string",
+   "nRows": 0,
+   "size": -1,
+   "metaData": {
+    "kind": "ColumnSchemaMetaData",
+    "sort": [],
+    "ascending": true,
+    "quartiles": [],
+    "properties": []
+   }
+  },
+  {
+   "kind": "ColumnSchema",
+   "id": "d81a0ec1-0213-4d14-a3ec-fa1de2413729",
+   "name": "Donor",
+   "type": "string",
+   "nRows": 0,
+   "size": -1,
+   "metaData": {
+    "kind": "ColumnSchemaMetaData",
+    "sort": [],
+    "ascending": true,
+    "quartiles": [],
+    "properties": []
+   }
+  },
+  {
+   "kind": "ColumnSchema",
+   "id": "438e7aef-0378-4654-90e3-9e60ade3317c",
+   "name": "Treatment",
+   "type": "string",
+   "nRows": 0,
+   "size": -1,
+   "metaData": {
+    "kind": "ColumnSchemaMetaData",
+    "sort": [],
+    "ascending": true,
+    "quartiles": [],
+    "properties": []
+   }
+  },
+  {
+   "kind": "ColumnSchema",
+   "id": "81d79ea5-3f16-4381-89fa-186e829f64ce",
+   "name": "Well",
+   "type": "string",
+   "nRows": 0,
+   "size": -1,
+   "metaData": {
+    "kind": "ColumnSchemaMetaData",
+    "sort": [],
+    "ascending": true,
+    "quartiles": [],
+    "properties": []
+   }
+  }
+ ],
+ "dataDirectory": "data/49/89/498933b30a2107587585128ebfc54b4693317eef29c935443db74f3b18606839",
+ "relation": {
+  "kind": "Relation",
+  "id": "02afd7fa-2168-4b18-99e3-35e2a7252bfb"
+ }
+}

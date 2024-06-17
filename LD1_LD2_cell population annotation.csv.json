@@ -1,0 +1,76 @@
+{
+ "kind": "TableSchema",
+ "id": "7167dff4ac9aa54e1a9406ccc23ce631ca634ea030c817875b517525c680c148",
+ "isDeleted": false,
+ "rev": "",
+ "description": "",
+ "name": "LD1_LD2_cell population annotation.csv",
+ "acl": {
+  "kind": "Acl",
+  "owner": "",
+  "aces": []
+ },
+ "createdDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "lastModifiedDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "urls": [],
+ "tags": [],
+ "meta": [
+  {
+   "kind": "Pair",
+   "key": "SHA256",
+   "value": "7167dff4ac9aa54e1a9406ccc23ce631ca634ea030c817875b517525c680c148"
+  }
+ ],
+ "url": {
+  "kind": "Url",
+  "uri": ""
+ },
+ "version": "",
+ "isPublic": false,
+ "projectId": "",
+ "folderId": "",
+ "nRows": 69,
+ "columns": [
+  {
+   "kind": "ColumnSchema",
+   "id": "10b8e67a-6f85-49e2-a0c7-14fecf32bba1",
+   "name": "FlowJo header",
+   "type": "string",
+   "nRows": 0,
+   "size": -1,
+   "metaData": {
+    "kind": "ColumnSchemaMetaData",
+    "sort": [],
+    "ascending": true,
+    "quartiles": [],
+    "properties": []
+   }
+  },
+  {
+   "kind": "ColumnSchema",
+   "id": "5d183ae2-7253-4ce4-a0be-a3d2f9ccf41c",
+   "name": "Display name",
+   "type": "string",
+   "nRows": 0,
+   "size": -1,
+   "metaData": {
+    "kind": "ColumnSchemaMetaData",
+    "sort": [],
+    "ascending": true,
+    "quartiles": [],
+    "properties": []
+   }
+  }
+ ],
+ "dataDirectory": "data/71/67/7167dff4ac9aa54e1a9406ccc23ce631ca634ea030c817875b517525c680c148",
+ "relation": {
+  "kind": "Relation",
+  "id": "f95c04a2-8140-40cc-b171-5c30545e8ae1"
+ }
+}

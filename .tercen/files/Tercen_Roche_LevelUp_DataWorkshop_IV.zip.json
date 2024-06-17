@@ -1,0 +1,42 @@
+{
+ "kind": "FileDocument",
+ "id": "Tercen_Roche_LevelUp_DataWorkshop_IV.zip",
+ "isDeleted": false,
+ "rev": "",
+ "description": "",
+ "name": "Tercen_Roche_LevelUp_DataWorkshop_IV.zip",
+ "acl": {
+  "kind": "Acl",
+  "owner": "",
+  "aces": []
+ },
+ "createdDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "lastModifiedDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "urls": [],
+ "tags": [],
+ "meta": [],
+ "url": {
+  "kind": "Url",
+  "uri": ""
+ },
+ "version": "",
+ "isPublic": false,
+ "projectId": "",
+ "folderId": "",
+ "dataUri": "b3/b1/b3b16571-315c-48b6-8f27-6755e33b169b",
+ "metadata": {
+  "kind": "FileMetadata",
+  "contentType": "",
+  "cacheControl": "",
+  "contentEncoding": "",
+  "contentLanguage": "",
+  "md5Hash": ""
+ },
+ "size": 44585017
+}

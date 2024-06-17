@@ -1,0 +1,42 @@
+{
+ "kind": "FileDocument",
+ "id": "PDFs/WorkshopIV_PartA.pdf",
+ "isDeleted": false,
+ "rev": "",
+ "description": "",
+ "name": "WorkshopIV_PartA.pdf",
+ "acl": {
+  "kind": "Acl",
+  "owner": "",
+  "aces": []
+ },
+ "createdDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "lastModifiedDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "urls": [],
+ "tags": [],
+ "meta": [],
+ "url": {
+  "kind": "Url",
+  "uri": ""
+ },
+ "version": "",
+ "isPublic": false,
+ "projectId": "",
+ "folderId": "0",
+ "dataUri": "ec/84/ec84aea6-9ab1-4633-a719-39a80d4412a3",
+ "metadata": {
+  "kind": "FileMetadata",
+  "contentType": "",
+  "cacheControl": "",
+  "contentEncoding": "",
+  "contentLanguage": "",
+  "md5Hash": ""
+ },
+ "size": 5262493
+}

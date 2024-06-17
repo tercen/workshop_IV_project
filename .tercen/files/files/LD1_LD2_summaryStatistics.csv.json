@@ -1,0 +1,42 @@
+{
+ "kind": "FileDocument",
+ "id": "files/LD1_LD2_summaryStatistics.csv",
+ "isDeleted": false,
+ "rev": "",
+ "description": "",
+ "name": "LD1_LD2_summaryStatistics.csv",
+ "acl": {
+  "kind": "Acl",
+  "owner": "",
+  "aces": []
+ },
+ "createdDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "lastModifiedDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "urls": [],
+ "tags": [],
+ "meta": [],
+ "url": {
+  "kind": "Url",
+  "uri": ""
+ },
+ "version": "",
+ "isPublic": false,
+ "projectId": "",
+ "folderId": "2",
+ "dataUri": "a2/39/a239c550-b3d1-4692-ab5c-9b382c44901e",
+ "metadata": {
+  "kind": "FileMetadata",
+  "contentType": "",
+  "cacheControl": "",
+  "contentEncoding": "",
+  "contentLanguage": "",
+  "md5Hash": ""
+ },
+ "size": 6174
+}

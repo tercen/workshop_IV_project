@@ -1,0 +1,42 @@
+{
+ "kind": "FileDocument",
+ "id": "Guides/B1 - FlowJo statistics in Tercen.md",
+ "isDeleted": false,
+ "rev": "",
+ "description": "",
+ "name": "B1 - FlowJo statistics in Tercen.md",
+ "acl": {
+  "kind": "Acl",
+  "owner": "",
+  "aces": []
+ },
+ "createdDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "lastModifiedDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "urls": [],
+ "tags": [],
+ "meta": [],
+ "url": {
+  "kind": "Url",
+  "uri": ""
+ },
+ "version": "",
+ "isPublic": false,
+ "projectId": "",
+ "folderId": "1",
+ "dataUri": "c7/14/c714fac3-b2d8-4640-8b3c-98a74c298cf2",
+ "metadata": {
+  "kind": "FileMetadata",
+  "contentType": "",
+  "cacheControl": "",
+  "contentEncoding": "",
+  "contentLanguage": "",
+  "md5Hash": ""
+ },
+ "size": 204
+}

@@ -1,0 +1,42 @@
+{
+ "kind": "FileDocument",
+ "id": "files/export_LD1_LD2_CD3pos.zip",
+ "isDeleted": false,
+ "rev": "",
+ "description": "",
+ "name": "export_LD1_LD2_CD3pos.zip",
+ "acl": {
+  "kind": "Acl",
+  "owner": "",
+  "aces": []
+ },
+ "createdDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "lastModifiedDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "urls": [],
+ "tags": [],
+ "meta": [],
+ "url": {
+  "kind": "Url",
+  "uri": ""
+ },
+ "version": "",
+ "isPublic": false,
+ "projectId": "",
+ "folderId": "2",
+ "dataUri": "0b/4b/0b4b3c48-d3c5-4454-9631-59296b9f69fc",
+ "metadata": {
+  "kind": "FileMetadata",
+  "contentType": "",
+  "cacheControl": "",
+  "contentEncoding": "",
+  "contentLanguage": "",
+  "md5Hash": ""
+ },
+ "size": 30752330
+}
